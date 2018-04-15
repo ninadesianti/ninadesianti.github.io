@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Diatoms of North Atlantic Coasts
 
-You can use the [editor on GitHub](https://github.com/ninadesianti/ninadesianti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Diatoms are microscopic, photosynthetic organism which are ubiquitous in aquatic environment from freshwater to marine habitats. They have been widely used as environmental indicators. Their cell walls are made of silica and preserved well in the sediment. It allows fro their use in recontruction of paleoenvironmental conditions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diatoms of salt marshes have been used as a tide gauge of the past to study the sea level change and global climate change.
 
-### Markdown
+### Diatom spatial distribution in salt marshes
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
